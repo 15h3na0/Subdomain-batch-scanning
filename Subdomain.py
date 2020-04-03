@@ -48,5 +48,6 @@ def onethread(url):
 if __name__ == '__main__':
     file_str = 'url.txt'
     read_file(file_str)
+    # 设定线程
     thread_num = 3
     multithreading(thread_num)
