@@ -1,2 +1,2 @@
 # Subdomain-batch-scanning
-搭配OneForAll批量扫描子域名脚本
+搭配[OneForAll](https://github.com/shmilylty/OneForAll)批量扫描子域名
